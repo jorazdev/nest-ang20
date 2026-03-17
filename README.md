@@ -1,7 +1,7 @@
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
   <a href="https://angular.dev/" target="blank"><img src="https://dac.digital/wp-content/uploads/2023/05/angular-logo-1-optimized.png" width="120" alt="Angular Logo" /></a>
-  <a href="https://angular.dev/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWhNrvX-4TSMd_UJhu4o9197FnyAEATv63YN7W1ZUHw&s" width="120" alt="Angular Logo" /></a>
+  <a href="https://angular.dev/" target="blank"><img src="https://image.pngaaa.com/779/6447779-middle.png" width="120" alt="Angular Logo" /></a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
