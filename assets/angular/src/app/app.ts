@@ -1,5 +1,6 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+//import bg from '@images/nest-ang20.png';
 
 @Component({
   selector: 'app-root',

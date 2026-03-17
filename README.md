@@ -40,6 +40,18 @@ $ npm install
 $ npm run nest
 $ npm run angular
 
+
+```
+
+## Lunch project local
+
+```bash
+
+http://localhost:3000
+http://localhost:3000/api ( swagger )
+http://localhost:3000/graphql ( graphql )
+
+
 ```
 
 ## Contacts
