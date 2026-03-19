@@ -16,7 +16,7 @@ import { HelloModule } from './hello/hello.module';
   imports: [
     ServeStaticModule.forRoot({
       rootPath: join(__dirname, '..', '../assets/angular/dist/angular/browser'),
-      exclude: ['/graphql'],
+      exclude: ['/graphql', '/api'],
     }),
     ConfigModule.forRoot({
       isGlobal: true, // rend la config accessible partout sans devoir la réimporter
